@@ -1,1 +1,13 @@
 *~
+_site
+_config.yml
+index.html
+feed.xml
+css
+about.md
+_posts
+stylesheet.css
+.jekyll-metadata
+Gemfile
+Gemfile.lock
+_layouts
