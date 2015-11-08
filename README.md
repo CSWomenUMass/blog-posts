@@ -15,13 +15,29 @@ In moving to hosting our [group's webpage on GitHub](http://cswomenumass.github.
   title: "<post_title>"
   date: <YYYY>-<MM>-<DD> 00:00:00
   categories: <comma_separated_tag_list>
+  author: <your username>
   ```
-  - Name the file like so: `<YYYY>-<MM>-<DD>-<post_title>.md`
-  - You can compare with exisiting files in this repository.
+  - Name the file like so: `<YYYY>-<MM>-<DD>-<post_title>.md`. You can compare with exisiting files in this repository.
 * Ensure that everything renders okay:
   * Run `./tests.sh`. This will generate a stripped down version of the website for the purposes of rendering Markdown.
   * Open `http://localhost:4000`. You will just see blog post summaries displayed.
   * Click on your blog post. Note that the css will not be the same -- the css on the main website is is compiled from a scss specification. If you want to see how the page will be rendered in the context of the main website, you will need to check out the [main repository](http://github.com:CSWomenUMass/cswomenumass.github.io) with the `--recursive` option to grab this submodule and port the changes you've made in your local version of website.
-* Submit a pull request to the `blog` branch of this repository and include screen shots of the added blog post, e.g.
-![Screen Shot of Summary](images/screen_shot_summary.png)
-![Screen Shot of Post](images/screen_shot_post.png)
+* Submit a pull request to the `blog` branch of this repository and include:
+  1) A screen shot of the added blog post, e.g.
+     ![Screen Shot of Post](images/screen_shot_post.png)
+  2) A screen shot of the added blog post summary, e.g.
+     ![Screen Shot of Summary](images/screen_shot_summary.png)
+  3) If this is your first blog post submission, also include author information in the pull request:
+     * The username you used in the blog front matter
+     * Your display name
+     * The url for your website. 
+     This is the minimum information you need to submit. Here is an example of more complete information:
+     ```
+     tosch:
+         display_name: Emma Tosch
+         gravatar: df6572b0616ed24c7efbfe9b5daeb2af
+         email: etosch@cs.umass.edu
+         web: http://cics.umass.edu/~etosch
+         twitter: emmatosch
+         github: etosch
+     ```
