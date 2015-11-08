@@ -4,6 +4,7 @@ title: "Second Lunch of the Semester Brings Audrey St. John"
 date: 2015-04-03 00:00:00
 categories: lunch
 thumbnail: /images/lee-st.john.jpg
+author: tosch
 ---
 
 Oh, what a belated blog post!

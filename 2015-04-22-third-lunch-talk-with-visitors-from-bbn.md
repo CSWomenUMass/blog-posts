@@ -4,6 +4,7 @@ title: "Third Lunch Talk with Visitors from BBN"
 date: 2015-04-22 00:00:00
 categories: lunch
 thumbnail: /images/bbn.jpg
+author: tosch
 ---
 
 Today we were thrilled to host Bobby Simidcheiva (PhD '15) and Vicky Manfredi (PhD '09) from Raytheon BBN! They gave a presentation about their work with BBN and held an open Q&A with students after the event. 

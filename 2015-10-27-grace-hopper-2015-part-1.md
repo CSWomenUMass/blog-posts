@@ -4,6 +4,7 @@ title: "Grace Hopper Celebration Experiences: Part I"
 date: 2015-10-27 00:00:00
 categories: ghc
 thumbnail: /images/john.jpg
+author: tosch
 ---
 
 *In past years, CS Women has held a lunch after the annual [Grace Hopper Celebration](http://ghc.anitaborg.org/)​ for students who have attended to share their experiences. Since GHC is now well-known, we are retiring this practice and are instead asking those who went to tell us a bit about their experience for a blog post, so that new students can benefit from their experiences. [Rose Tharail John](https://people.cs.umass.edu/~rosejohn/) has written a wonderful essay on her experiences at GHC this year, which we have reproduced in full below.*

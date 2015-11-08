@@ -4,6 +4,7 @@ title: "First Lunch of the Semester Features Research Scientist Laura Dietz"
 date: 2015-02-21 00:00:00
 categories: lunch
 thumbnail: /images/dietz.jpg
+author: tosch
 ---
 
 Research Scientist Laura Dietz kicked off the Spring 2015 semester of CS Women events with a two-part lunch talk on Feb. 11. 35 members attended, including undergraduate students, graduate students, faculty, research scientists, and staff.

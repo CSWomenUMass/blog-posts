@@ -4,6 +4,7 @@ title: "First Lunch Features Prof. Alexandra Meliou"
 date: 2015-10-16 00:00:00
 categories: lunch
 thumbnail: /images/meliou.jpg
+author: tosch
 ---
 
 We held our first lunch of the semester on Wednesday, September 23rd, where Prof. Alexandra Meliou spoke about her research analyzing data errors in databases, and her experiences in graduate school. 37 people attended: 25 graduate students, 7 undergraduate students, 2 staff members, 2 faculty members, and 1 post-doctorate researcher.

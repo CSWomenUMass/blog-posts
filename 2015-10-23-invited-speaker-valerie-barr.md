@@ -4,6 +4,7 @@ title: "Invited Speaker: Valerie Barr"
 date: 2015-10-23 00:00:00
 categories: lunch
 thumbnail: /images/barr.jpg
+author: tosch
 ---
 
 On October 6, CS Women held a special lunch sponsored by [Prof. Lori Clarke](http://laser.cs.umass.edu/people/clarke.html) for Invited Speaker [Prof. Valerie Barr](http://cs.union.edu/~barrv/). Prof. Barr. Later that day Prof. Barr [gave a talk](https://www.cics.umass.edu/speakers/valerie-barr/2015/oct/6) on curricular changes to the Computer Science program that Union College has made under her direction.

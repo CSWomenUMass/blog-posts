@@ -4,6 +4,7 @@ title:  "2014 Grace Hopper Celebration"
 date:   2014-10-22 00:00:00
 categories: ghc
 thumbnail: /images/dori-hacohen.jpg
+author: myungha
 ---
 ![Shiri Dori-Hacohen](/images/dori-hacohen.jpg){:style="float: left; margin:0 10px 10px 0; max-width:120px; max-height=120px;"}
 

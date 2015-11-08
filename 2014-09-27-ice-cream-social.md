@@ -3,6 +3,7 @@ layout: post
 title:  "Ice Cream Social"
 date:   2014-09-27 00:00:00
 categories: social
+author: tosch
 thumbnail: /images/ice_cream_social_2014_2.jpg
 ---
 

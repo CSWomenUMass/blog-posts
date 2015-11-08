@@ -4,6 +4,7 @@ title: "Lunch with Jennifer Chayes"
 date: 2014-11-24 00:00:00
 categories: lunch
 thumbnail: /images/chayes.jpg
+author: myungha
 ---
 
 ![Jennifer Chayes](/images/chayes.jpg){:style="float: left; margin:0 10px 10px 0; max-width: 256px; max-height: 256px;"} Our second CS Women group lunch had Jennifer Chayes, a head of Microsoft Research in New England and NYC, who was visiting UMass as a DLS speaker. It was funny as we were casually talking to Jennifer in the beginning, one of our students asked, "So do you work in MSR?" and she said, "Well, I run it. :) "

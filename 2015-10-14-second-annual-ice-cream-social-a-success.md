@@ -3,6 +3,7 @@ layout: post
 title: "Second Annual Ice Cream Social A Success"
 date: 2015-10-14 00:00:00
 categories: lunch
+author: tosch
 ---
 
 For the second year in a row, we ran a very successful Ice Cream Social! This year it was on Friday, September 18th. 34 members attended in total, with 19 graduate students, 13 undergraduate students, one staff member, and one faculty member. A variety of cold desserts were served.
