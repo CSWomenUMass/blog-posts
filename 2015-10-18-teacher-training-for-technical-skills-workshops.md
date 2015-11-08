@@ -4,10 +4,7 @@ title: "Teacher Training for Technical Skills Workshops"
 date: 2015-10-18 00:00:00
 categories: workshops
 thumbnail: /images/teachers.jpg
-<<<<<<< HEAD
 author: tosch
-=======
->>>>>>> bd85f04473af13dff7dcf81b0e1f32d8eca6f5a1
 ---
 
 On Sunday 9/27 and Monday 9/28, CS Women hosted our first-ever teacher training workshop and retreat for the volunteers who will be leading [Symantec-funded technical skills workshops](https://www.ncwit.org/programs-campaigns/ncwit-awards/ncwit-student-seed-fund/previous-ncwit-student-seed-fund-winners) throughout the rest of the semester.
