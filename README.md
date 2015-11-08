@@ -28,9 +28,11 @@ In moving to hosting our [group's webpage on GitHub](http://cswomenumass.github.
   2) A screen shot of the added blog post summary, e.g.
      ![Screen Shot of Summary](images/screen_shot_summary.png)
   3) If this is your first blog post submission, also include author information in the pull request:
+     
      * The username you used in the blog front matter
      * Your display name
      * The url for your website. 
+     
      This is the minimum information you need to submit. Here is an example of more complete information:
      ```
      tosch:
