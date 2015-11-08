@@ -2,7 +2,7 @@
 layout: post
 title: "Grace Hopper Celebration Experiences: Part I"
 date: 2015-10-27 00:00:00
-categories: ghc
+categories: ghc2015, ghc
 thumbnail: /images/john.jpg
 author: tosch
 ---

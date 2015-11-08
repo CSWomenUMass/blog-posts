@@ -22,6 +22,7 @@ In moving to hosting our [group's webpage on GitHub](http://cswomenumass.github.
   - Name the file like so: `<YYYY>-<MM>-<DD>-<post_title>.md`. You can compare with exisiting files in this repository.
 * Ensure that everything renders okay:
   * Run `./tests.sh`. This will generate a stripped down version of the website for the purposes of rendering Markdown.
+  * Run `bundle exec jekyll serve`.
   * Open `http://localhost:4000`. You will just see blog post summaries displayed.
   * Click on your blog post. Note that the css will not be the same -- the css on the main website is is compiled from a scss specification. If you want to see how the page will be rendered in the context of the main website, you will need to check out the [main repository](http://github.com:CSWomenUMass/cswomenumass.github.io) with the `--recursive` option to grab this submodule and port the changes you've made in your local version of website.
 * Submit a pull request to the `blog` branch of this repository and include:
