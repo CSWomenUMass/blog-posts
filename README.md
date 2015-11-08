@@ -10,13 +10,14 @@ In moving to hosting our [group's webpage on GitHub](http://cswomenumass.github.
   * Your fork of this repository will be current when you first fork it, but if you decide to write a second blog post (and please do!), you will need to make sure it is updated. Recall that you pull changes from your own remote repository (i.e., the fork) into your local folder with `git pull origin master`. You can now pull changes from this repository into your local version with `git pull upstream master`. 
 * Write the blog post in Markdown.
   - Make sure you have included the Markdown front matter:
-  ```
-  layout: post
-  title: "<post_title>"
-  date: <YYYY>-<MM>-<DD> 00:00:00
-  categories: <comma_separated_tag_list>
-  author: <your username>
-  ```
+    ```
+    layout: post
+    title: "<post_title>"
+    date: <YYYY>-<MM>-<DD> 00:00:00
+    categories: <comma_separated_tag_list>
+    author: <your username>
+    thumbnail: /images/<pic_filename>
+    ```
   - Name the file like so: `<YYYY>-<MM>-<DD>-<post_title>.md`. You can compare with exisiting files in this repository.
 * Ensure that everything renders okay:
   * Run `./tests.sh`. This will generate a stripped down version of the website for the purposes of rendering Markdown.
