@@ -2,11 +2,11 @@
 layout: post
 title: "Grace Hopper Celebration Experiences: Part II"
 date: 2015-11-08 17:21:00
-categories: ghc, ghc2015
+categories: ghc ghc2015
 thumbnail: /images/tun.jpg
 author: tosch
 ---
-![Yamin Tun](/images/tun.jpg){:style="float: left; margin:0 10px 10px 0;"}*The CS Women Co-Chairs have asked participants who attended the 2015 [Grace Hopper Celebration](http://ghc.anitaborg.org/) to tell us about their experiences. We have collected their responses and are making a series of blog posts about them.  In this post, [Yamin Tun](http://cics.umass.edu/~ytun) describes her experience.*
+![Yamin Tun](/images/tun.jpg){:style="float: right; margin:0px 30px 10px 0px;"}*The CS Women Co-Chairs have asked participants who attended the 2015 [Grace Hopper Celebration](http://ghc.anitaborg.org/) to tell us about their experiences. We have collected their responses and are making a series of blog posts about them.  In this post, [Yamin Tun](http://cics.umass.edu/~ytun) describes her experience.*
 
 
 # Which sessions did you attend?
