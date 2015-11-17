@@ -7,39 +7,19 @@ thumbnail: /images/sandberg.jpg
 author: tosch
 ---
 
-Here are some final remarks from this year's GHC attendees. 
+![Sheryl Sandberg](/images/sandberg.jpg){:style="max-width: 90%; border: solid;"}
 
-1) List the session you attended.
-
-*Tian*: Career fairs, CRA-W early career workshop series, speed mentoring and Sheryl Sandberg Talk. 
-
-2) Describing what you found most helpful.
-
-*Tian*: The career fairs are useful for finding an Engineering internship; not as useful for finding research internship or (full time job). 
+This is our last post on this year's GHC. Thanks to [Tian Guo](http://cics.umass.edu/~tian) and [Shiri Dori-Hacohen](http://cics.umass.edu/~shiri) for the photos!
 
 
-3) A paragraph on a particular session that inspired you.
+![GHC1](/images/ghc2015-1.jpg){:style="float:left; max-width: 400px; border: solid;"}
+![GHC3](/images/ghc2015-3.jpg){:style="max-width: 400px; border: solid;"}
+![GHC7](/images/ghc2015-7.jpg){:style="max-width: 800px; border: solid;"}
 
-*Tian*: Sheryl Sandberg talk about gender equality and the stereotypes that are deep down in people mind. 
+![GHC2](/images/ghc2015-2.jpg){:style="transform: rotate(90deg) translateY(153px) translateX(135px); border: solid; max-height: 400px;"}
+![GHC5](/images/ghc2015-5.jpg){:style="transform: rotate(90deg) translateY(-247px) translateX(-265px); border: solid; max-height: 400px;"}
 
-*Shiri*: The Mentor's Call - A Heroic response to women leaving technology, which explored and redefined the "Heroine's Journey" by reclaiming strong female roles in response to challenges.
-http://schedule.gracehopper.org/session/the-mentors-call-a-heroic-response-to-women-leaving-technology/
+![GHC4](/images/ghc2015-4.jpg){:style="border:solid; max-width: 800px;"}
 
 
-4) A list of the companies you talked to.
 
-*Tian*: Rackspace, Pure Storage 
-
-*Shiri*: Airbnb, Rackspace, Google, Facebook, Microsoft, Quora, Groupon, Fast Company, HackerRank, Dev Bootcamp, Hack Reactor, ABI, CRA-W, U. Michigan, Iowa State U., Grinnell College, Intel
-
-5) Any ideas/events/etc. that you would like to see CS Women do as a result of this event.
-
-*Tian*: CS Women are already doing a lot cool events :) I haven’t seen the mentor program for a while and I think it would be great to have it back. But again, it could be that I did not pay enough attention to this program. 
-
-![GHC1](/images/ghc2015-1.jpg)
-![GHC2](/images/ghc2015-2.jpg)
-![GHC3](/images/ghc2015-3.jpg)
-![GHC4](/images/ghc2015-4.jpg)
-![GHC5](/images/ghc2015-5.jpg)
-![GHC6](/images/ghc2015-6.jpg)
-![GHC7](/images/ghc2015-7.jpg)
