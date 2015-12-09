@@ -5,6 +5,8 @@ categories: lunch
 thumbnail: /images/valdes.jpg
 author: tosch
 title: Third Lunch with Consuelo Valdes
+published: false
+status: draft
 ---
 
 Our third speaker of the semester was [Consuelo Valdes](http://consuelovaldes.com/), who traveled from the Boston area to tell us about her experiences as a UX researcher and designer. 21 members attended: 5 undergraduate students and 16 graduate students. Here are the abstracts for her talk:
